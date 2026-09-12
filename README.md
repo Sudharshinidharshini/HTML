@@ -1,2 +1,3 @@
 # HTML CV
-In this, I'm done with a CV template with Styling Cascading
+In this, I've created a CV template with cascading styles
+https://github.com/Sudharshinidharshini/HTML/blob/main/index.html
