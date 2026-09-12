@@ -1,2 +1,2 @@
-# Hello I am Punnaku
-I Am Sudharshini I done these project
+# HTML CV
+In this, I'm done with a CV template with Styling Cascading
